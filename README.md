@@ -1,0 +1,2 @@
+# Pomodoro
+My pomodoro application
